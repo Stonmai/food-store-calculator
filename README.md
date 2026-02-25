@@ -118,7 +118,7 @@ Food store calculator
    - Pricing rule management (Member and Buy Two discounts)
 
 **Domain Layer** (`internal/domain`)
-   Define buisiness entities
+  Define buisiness entities
     - Menu for menu items and prices
     - Order for order structure and calculation results
    
