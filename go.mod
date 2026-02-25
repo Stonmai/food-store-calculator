@@ -1,3 +1,3 @@
-module github/actuallystonmai/calculator-program
+module github.com/actuallystonmai/food-store-calculator
 
 go 1.24.4
