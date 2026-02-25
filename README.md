@@ -1,5 +1,5 @@
 # Food Store Calculator
-a Calculator program for food store. The application features in interactive CLI. 
+a calculator program for food store. The application features in interactive CLI. 
 
 ## Setup Instructions
 
@@ -112,7 +112,7 @@ Food store calculator
   Handle user input/output and display formatted results
 
 **Business Logic Layer** (`internal/calculator`)
-  Handle calucation logic
+  Handle calculation logic
    - Order validation
    - Discount calculation
    - Pricing rule management (Member and Buy Two discounts)
