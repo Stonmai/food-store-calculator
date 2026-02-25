@@ -45,19 +45,19 @@ Food store calculator
 5. Exit
 ```
 
-*1. Add Item* 
+**1. Add Item** 
   Select items and quntity.
 
-*2. View Cart* 
+**2. View Cart**
   See all items in the current order and member card status.
 
-*3. Toggle Member Card*
+**3. Toggle Member Card**
   Activate or deactivate the 10% member discount.
   
-*4. Checkout*
+**4. Checkout**
   Calculate final price and reset order.
   
-*5. Exit*
+**5. Exit**
   Close the application.
 
 ---
