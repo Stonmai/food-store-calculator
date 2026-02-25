@@ -64,6 +64,7 @@ Food store calculator
 
 ## Architecture
 
+```
           Presentation
 ┌─────────────────────────────────┐
 │          Interactive            │
@@ -103,7 +104,7 @@ Food store calculator
 │  - MenuItem  │    │   - OrderItem           │          
 │              │    │   - CalculationResult   │          
 └──────────────┘    └─────────────────────────┘             
-                
+```      
                 
 #### Layer Responsilities
 
