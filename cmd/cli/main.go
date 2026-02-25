@@ -32,7 +32,7 @@ func main() {
 
 func (c *CLI) Run() {
 	fmt.Println("=========================")
-	fmt.Println("Food store calculator")
+	fmt.Println("  Food store calculator")
 	fmt.Println("=========================")
 
 	for {
@@ -142,14 +142,14 @@ func (c *CLI) toggleMember() {
 
 func (c *CLI) checkout() {
 	if len(c.order.Items) == 0 {
-		fmt.Println("❌ Cart is empty!")
+		fmt.Println("Cart is empty!")
 		return
 	}
 
 	result, _ := c.calc.CalculateOrder(c.order)
 
 	fmt.Println("==================================")
-	fmt.Printf("Total price is: %.2f THB\n", result.GrandTotal)
+	fmt.Printf("    Total price is: %.2f THB\n", result.GrandTotal)
 	fmt.Println("==================================")
 
 	// Reset order
