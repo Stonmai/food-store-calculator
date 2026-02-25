@@ -17,7 +17,7 @@ go mod download
 go run cmd/cli/main.go
 ```
 
-### Run tests
+#### Run tests
 ```bash
 # Run all tests
 go test ./internal/calculator
