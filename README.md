@@ -119,6 +119,6 @@ Food store calculator
 
 **Domain Layer** (`internal/domain`)
   Define buisiness entities
-    - Menu for menu items and prices
-    - Order for order structure and calculation results
+   - Menu for menu items and prices
+   - Order for order structure and calculation results
    
